@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "LoginPlaceholder.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
